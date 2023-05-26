@@ -7,9 +7,9 @@
 I'm a web developer and I'm intrested in a web technologies since 2017 because I'm like to learn new things. 😄🌎 <br>
 In my free time I love the outdoors, being active, as well as connecting with friends and family. I also work on random projects in my free time :)
 I like to be creative and create my own coding reality.<br>
-📷 Catch me taking some <a href="hhttps://www.flickr.com/photos/184775256@N04/">pictures</a> in my free time.
+<!--📷 Catch me taking some <a href="hhttps://www.flickr.com/photos/184775256@N04/">pictures</a> in my free time.-->
 </samp>
-<br><br>
+<br>
 
 🔭 <samp>I'm familiar with:</samp> <br>
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,wordpress)![Supported Magento Versions](https://img.shields.io/badge/magento--brightgreen.svg?logo=magento&longCache=true&style=for-the-badge)
