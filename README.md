@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07F76C&width=435&lines=It's+great+to+have+you+here!)](https://git.io/typing-svg)
 <br>
 <samp>
-I'm a web developer and I'm intrested web technologies since 2017 and I'm happy to learn new things. 🌎 <br>
+I'm a web developer and I'm intrested a web technologies since 2017 because I'm like to learn new things. 😄🌎 <br>
 In my free time I love the outdoors, being active, as well as connecting with friends and family. I also work on random projects in my free time :)
 I like to be creative and create my own coding reality.
 </samp>
@@ -12,13 +12,13 @@ I like to be creative and create my own coding reality.
 
 
 
-🔭 Languages & frameworks: <br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,wordpress)]
+🔭 <samp>Languages & frameworks:</samp> <br>
+![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,wordpress)
 
-🔗 Other Tools/Interests:<br>
-[![My Skills](https://skillicons.dev/icons?i=figma,github,git)
+🔗 <samp>Other Tools/Interests:</samp><br>
+![My Skills](https://skillicons.dev/icons?i=figma,github,git)
 <code><img title="GIMP" alt="GNU Image Manipulation Program - GIMP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" /></code>
-<code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>]
+<code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
 
 <samp>
 💬 Ask me about something here: szymaszkiewiczk@gmail.com
