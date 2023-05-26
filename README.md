@@ -6,9 +6,10 @@
 <samp>
 I'm a web developer and I'm intrested in a web technologies since 2017 because I'm like to learn new things. 😄🌎 <br>
 In my free time I love the outdoors, being active, as well as connecting with friends and family. I also work on random projects in my free time :)
-I like to be creative and create my own coding reality.<br><br>
+I like to be creative and create my own coding reality.<br>
+📷 Catch me taking some <a href="hhttps://www.flickr.com/photos/184775256@N04/">pictures</a> in my free time.
 </samp>
-<br>
+<br><br>
 
 🔭 <samp>I'm familiar with:</samp> <br>
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,wordpress)![Supported Magento Versions](https://img.shields.io/badge/magento--brightgreen.svg?logo=magento&longCache=true&style=for-the-badge)
@@ -27,7 +28,6 @@ find me around the web and let me know better
 <a target="_blank" href="https://www.linkedin.com/in/karolina-szymaszkiewicz-b2449b12a/"><img width="50px" src="https://i.ibb.co/y5PbksN/Linkedin.png" alt="Linkedin" border="0"></a>
 </samp>
 
-[📷](https://www.flickr.com/photos/184775256@N04/) Catch me taking some <a href="hhttps://www.flickr.com/photos/184775256@N04/">pictures</a> in my free time.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07F76C&width=435&lines=Thanks+for+visting+my+profile!)](https://git.io/typing-svg) 
 <!--
