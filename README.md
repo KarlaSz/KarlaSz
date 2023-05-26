@@ -2,7 +2,7 @@
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07F76C&width=435&lines=It's+great+to+have+you+here!)](https://git.io/typing-svg)-->
 <br>
 <samp>
-I'm a web developer and I'm intrested a web technologies since 2017 because I'm like to learn new things. 😄🌎 <br>
+I'm a web developer and I'm intrested in a web technologies since 2017 because I'm like to learn new things. 😄🌎 <br>
 In my free time I love the outdoors, being active, as well as connecting with friends and family. I also work on random projects in my free time :)
 I like to be creative and create my own coding reality.
 </samp>
