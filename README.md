@@ -4,7 +4,7 @@
 
 
 <samp>
-I'm a web developer and I'm intrested in a web technologies since 2017 because I'm like to learn new things. 😄🌎 <br>
+I'm a web developer and I'm intrested in a web technologies since 2017 because I like to learn new things. 😄🌎 <br>
 In my free time I love the outdoors, being active, as well as connecting with friends and family. I also work on random projects in my free time :)
 I like to be creative and create my own coding reality.<br>
 <!--📷 Catch me taking some <a href="hhttps://www.flickr.com/photos/184775256@N04/">pictures</a> in my free time.-->
