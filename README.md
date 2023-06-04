@@ -10,18 +10,18 @@ I like to be creative and create my own coding reality.<br>
 <!--📷 Catch me taking some <a href="hhttps://www.flickr.com/photos/184775256@N04/">pictures</a> in my free time.-->
 </samp>
 <br>
-
+<!--
 🔭 <samp>I'm familiar with:</samp> <br>
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,wordpress)![Supported Magento Versions](https://img.shields.io/badge/magento--brightgreen.svg?logo=magento&longCache=true&style=for-the-badge)
 
 🔗 <samp>Other Tools/Interests:</samp><br>
 ![My Skills](https://skillicons.dev/icons?i=figma,github,git,vscode)
-<code><img title="GIMP" alt="GNU Image Manipulation Program - GIMP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" /></code>
-
+<code><img title="GIMP" alt="GNU Image Manipulation Program - GIMP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" /></code> -->
+<!--
 <samp>I want to learn:</samp>
 ![My Skills](https://skillicons.dev/icons?i=vue,flutter)
 <br><br>
-<!--<samp>
+<samp>
 💬 Ask me about something here: xxx
 <br> or 
 find me around the web and let me know better
