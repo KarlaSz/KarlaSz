@@ -14,8 +14,8 @@ I like to be creative and create my own coding reality.<br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,codepen,discord)](https://skillicons.dev)
 <!--<code><img title="GIMP" alt="GNU Image Manipulation Program - GIMP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" /></code>-->
 
-<samp>I want to learn:</samp>
-![My Skills](https://skillicons.dev/icons?i=,react,vue,flutter)
+<!--<samp>I want to learn:</samp>-->
+<!--![My Skills](https://skillicons.dev/icons?i=,react,vue,flutter)-->
 <br><br>
 <samp>
 💬 Ask me about something here: <!--xxx
