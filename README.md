@@ -26,7 +26,7 @@ find me around the web and let me know better -->
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7EF&random=false&width=435&lines=RWD++Mobile+First)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F2F711&random=false&width=435&lines=DRY+++BEM)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F2F711&random=false&width=435&lines=DRY+++BEM+Bootstrap)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75D73&random=false&width=435&lines=SEO++UX)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F763&random=false&width=435&lines=click+click+enter+)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31F771&random=false&width=435&lines=%7B%7D+package.JSON)](https://git.io/typing-svg)
