@@ -23,11 +23,7 @@ I like to be creative and create my own coding reality.<br>
 find me around the web and let me know better -->
 <!--<a target="_blank" href="https://www.linkedin.com/in/karolina-szymaszkiewicz-webdev"><img width="50px" src="https://i.ibb.co/y5PbksN/Linkedin.png" alt="Linkedin" border="0"></a>
 </samp> -->
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07F76C&width=435&lines=Thanks+for+visting+my+profile!)](https://git.io/typing-svg) 
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F763&random=false&width=435&lines=click+click+enter+)](https://git.io/typing-svg)
 <!--
 
 
