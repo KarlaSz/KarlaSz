@@ -11,7 +11,7 @@ I like to be creative and create my own coding reality.<br>
 </samp><br> 
 
 🔗 <samp>Tech stack:</samp><br>
-![My Skills](https://skillicons.dev/icons?i=js,github,git,vscode,gulp,wordpress,figma,tailwind)
+![My Skills](https://skillicons.dev/icons?i=js,github,git,vscode,gulp,wordpress,figma,tailwind,webflow)
 <!--[![My Skills](https://skillicons.dev/icons?i=,html,css,sass,bootstrap,codepen,discord)](https://skillicons.dev)-->
 ![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,codepen,discord,)<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/></code><code><img width="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/></code><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
 <!--<code><img title="GIMP" alt="GNU Image Manipulation Program - GIMP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" /></code>-->
