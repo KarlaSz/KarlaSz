@@ -10,9 +10,9 @@ I like to be creative and create my own coding reality.<br>
 </samp><br> 
 
 🔗 <samp>Tech stack:</samp><br>
-![My Skills](https://skillicons.dev/icons?i=postgresql,github,git,vscode,python,gulp,wordpress,figma,webflow)
+![My Skills](https://skillicons.dev/icons?i=postgresql,github,git,vscode,python,flask,pycharm,figma,webflow)
 <!--[![My Skills](https://skillicons.dev/icons?i=,html,css,sass,bootstrap,codepen,discord)](https://skillicons.dev)-->
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,bootstrap,pycharm,discord)<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/></code><code><img width="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/></code>
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,gulp,bootstrap,wordpress,discord)<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/></code><code><img width="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/></code>
 <!--<code><img title="GIMP" alt="GNU Image Manipulation Program - GIMP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" /></code>-->
 <!--🛢 &nbsp;Database:&nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)-->
