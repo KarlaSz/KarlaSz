@@ -4,7 +4,7 @@
 <samp>
 
 # About me
-I'm a web developer and I'm intrested in a web technologies since 2017. <br>
+I'm a web backend developer and I'm intrested in a web technologies since 2017. <br>
 I like to be creative and create my own coding reality.<br>
 <!--📷 Catch me taking some <a href="hhttps://www.flickr.com/photos/184775256@N04/">pictures</a> in my free time.-->
 </samp><br> 
