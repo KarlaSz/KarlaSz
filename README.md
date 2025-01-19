@@ -10,7 +10,7 @@ I like to be creative and create my own coding reality.<br>
 </samp><br> 
 
 🔗 <samp>Tech stack:</samp><br>
-![My Skills](https://skillicons.dev/icons?i=github,git,gitlab,vscode,python,flask,pycharm) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dbeaver,sqlite,postgresql,jira)
+![My Skills](https://skillicons.dev/icons?i=github,git,gitlab,vscode,python,flask,pycharm,selenium) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dbeaver,sqlite,postgresql)
 <!--[![My Skills](https://skillicons.dev/icons?i=,html,css,sass,bootstrap,codepen,discord)](https://skillicons.dev)-->
 ![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,gulp,npm,bootstrap,wordpress,figma,grafana,postman)
 <!--<code><img title="GIMP" alt="GNU Image Manipulation Program - GIMP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" /></code>-->
