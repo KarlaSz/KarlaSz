@@ -12,7 +12,7 @@ I like to be creative and create my own coding reality.<br>
 🔗 <samp>Tech stack:</samp><br>
 ![My Skills](https://skillicons.dev/icons?i=git,gitlab,vscode,python,flask,django,pycharm,selenium) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dbeaver,sqlite,postgresql)
 <!--[![My Skills](https://skillicons.dev/icons?i=,html,css,sass,bootstrap,codepen,discord)](https://skillicons.dev)-->
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,gulp,npm,bootstrap,wordpress,figma,grafana,postman)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,gulp,npm,bootstrap,wordpress,figma,grafana,postman,docker)
 <!--<code><img title="GIMP" alt="GNU Image Manipulation Program - GIMP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" /></code>-->
 <!--🛢 &nbsp;Database:&nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)-->
