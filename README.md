@@ -7,7 +7,7 @@
 I'm a web backend developer and I'm intrested in a web technologies since 2017. <br>
 I like to be creative and create my own coding reality.<br>
 
-![webszyk-studio-strony-internetowe-wroclaw](https://github.com/user-attachments/assets/a3305dd1-89c8-40ea-a030-b13cae1f2c36)
+![webszyk-studio-strony-internetowe-wroclaw](https://github.com/user-attachments/assets/4d2c7dfe-3e76-4c2e-ae7d-533b156bde2b)
 
 <!--📷 Catch me taking some <a href="hhttps://www.flickr.com/photos/184775256@N04/">pictures</a> in my free time.-->
 </samp><br> 
